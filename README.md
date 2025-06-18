@@ -284,7 +284,11 @@ An enthusiastic individual deeply passionate about technology and coding, enjoys
 
 <div align="center">
 
-![GitHub Metrics](https://metrics.lecoq.io/mdakashhossain1?template=classic&config.timezone=Asia%2FDhaka)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdakashhossain1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&icon_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdakashhossain1&theme=radical&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=mdakashhossain1&theme=radical&hide_border=true&background=0d1117)
 
 </div>
 
@@ -294,10 +298,11 @@ An enthusiastic individual deeply passionate about technology and coding, enjoys
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdakashhossain1&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdakashhossain1&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdakashhossain1&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdakashhossain1&theme=vue)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdakashhossain1&theme=github_dark)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdakashhossain1&theme=github_dark) ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdakashhossain1&theme=github_dark)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdakashhossain1&theme=github_dark) ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdakashhossain1&theme=github_dark)
 
 </div>
 
@@ -307,8 +312,14 @@ An enthusiastic individual deeply passionate about technology and coding, enjoys
 
 <div align="center">
 
-![Achievements](https://github-readme-stats.vercel.app/api?username=mdakashhossain1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdakashhossain1&theme=radical&layout=compact&langs_count=8)
+### 📈 Contribution Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdakashhossain1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+
+### 🌟 Language Usage
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdakashhossain1&theme=tokyonight&layout=compact&langs_count=8&hide_border=true)
+
+### 🔥 Contribution Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdakashhossain1&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
