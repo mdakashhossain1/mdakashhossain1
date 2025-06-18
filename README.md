@@ -82,9 +82,9 @@ An enthusiastic individual deeply passionate about technology and coding, enjoys
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Infinite-Null&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Infinite-Null&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Infinite-Null&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mdakashhossain1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mdakashhossain1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdakashhossain1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -94,7 +94,7 @@ An enthusiastic individual deeply passionate about technology and coding, enjoys
 
 <div align="center">
 
-[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Infinite-Null&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdakashhossain1&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -104,8 +104,8 @@ An enthusiastic individual deeply passionate about technology and coding, enjoys
 
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Infinite-Null&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=Infinite-Null&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mdakashhossain1&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=mdakashhossain1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
 </div>
 
@@ -115,9 +115,9 @@ An enthusiastic individual deeply passionate about technology and coding, enjoys
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Infinite-Null&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Infinite-Null&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Infinite-Null&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdakashhossain1&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdakashhossain1&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdakashhossain1&theme=github_dark)
 
 </div>
 
@@ -127,7 +127,7 @@ An enthusiastic individual deeply passionate about technology and coding, enjoys
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Infinite-Null&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mdakashhossain1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
@@ -138,7 +138,7 @@ An enthusiastic individual deeply passionate about technology and coding, enjoys
 <div align="center">
 
 <!--START_SECTION:waka-->
-![](https://github-readme-stats.vercel.app/api/wakatime?username=Infinite-Null&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=mdakashhossain1&theme=dark&hide_border=true)
 <!--END_SECTION:waka-->
 
 </div>
@@ -149,8 +149,8 @@ An enthusiastic individual deeply passionate about technology and coding, enjoys
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Infinite-Null&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Infinite-Null&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdakashhossain1&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdakashhossain1&theme=github_dark)
 
 </div>
 
@@ -160,7 +160,7 @@ An enthusiastic individual deeply passionate about technology and coding, enjoys
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=Infinite-Null&repo=github-readme-stats&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/pin/?username=mdakashhossain1&repo=mdakashhossain1&theme=dark&hide_border=true)
 
 </div>
 
@@ -170,8 +170,8 @@ An enthusiastic individual deeply passionate about technology and coding, enjoys
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Infinite-Null&theme=monokai&utc_offset=6)
-![](https://github-profile-summary-cards.vercel.app/api/cards/commits-per-day?username=Infinite-Null&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdakashhossain1&theme=monokai&utc_offset=6)
+![](https://github-profile-summary-cards.vercel.app/api/cards/commits-per-day?username=mdakashhossain1&theme=monokai)
 
 </div>
 
@@ -181,8 +181,8 @@ An enthusiastic individual deeply passionate about technology and coding, enjoys
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Infinite-Null&langs_count=10&theme=radical&layout=compact&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Infinite-Null&langs_count=8&theme=dark&layout=pie&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdakashhossain1&langs_count=10&theme=radical&layout=compact&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdakashhossain1&langs_count=8&theme=dark&layout=pie&hide_border=true)
 
 </div>
 
@@ -192,7 +192,7 @@ An enthusiastic individual deeply passionate about technology and coding, enjoys
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Infinite-Null&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdakashhossain1&theme=monokai)
 
 </div>
 
@@ -212,7 +212,7 @@ An enthusiastic individual deeply passionate about technology and coding, enjoys
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=Infinite-Null&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=mdakashhossain1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -222,7 +222,7 @@ An enthusiastic individual deeply passionate about technology and coding, enjoys
 
 <div align="center">
 
-![](https://ghchart.rshah.org/409ba5/Infinite-Null)
+![](https://ghchart.rshah.org/409ba5/mdakashhossain1)
 
 </div>
 
@@ -232,8 +232,8 @@ An enthusiastic individual deeply passionate about technology and coding, enjoys
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Infinite-Null&layout=donut&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Infinite-Null&layout=donut-vertical&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdakashhossain1&layout=donut&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdakashhossain1&layout=donut-vertical&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -246,7 +246,7 @@ An enthusiastic individual deeply passionate about technology and coding, enjoys
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Infinite-Null&theme=github-compact&hide_border=true&area=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=mdakashhossain1&theme=github-compact&hide_border=true&area=true)
 
 </div>
 
@@ -256,7 +256,7 @@ An enthusiastic individual deeply passionate about technology and coding, enjoys
 
 <div align="center">
 
-![](https://metrics.lecoq.io/Infinite-Null?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka)
+![](https://metrics.lecoq.io/mdakashhossain1?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka)
 
 </div>
 
@@ -266,7 +266,7 @@ An enthusiastic individual deeply passionate about technology and coding, enjoys
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Infinite-Null/Infinite-Null/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/mdakashhossain1/mdakashhossain1/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -276,7 +276,7 @@ An enthusiastic individual deeply passionate about technology and coding, enjoys
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Infinite-Null&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=mdakashhossain1&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)
 
 </div>
 
@@ -286,10 +286,10 @@ An enthusiastic individual deeply passionate about technology and coding, enjoys
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Infinite-Null&icon=2&color=6)](https://visitcount.itsvg.in)
-![Profile Views](https://komarev.com/ghpvc/?username=Infinite-Null&color=brightgreen&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/Infinite-Null?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/Infinite-Null?style=social)
+[![](https://visitcount.itsvg.in/api?id=mdakashhossain1&icon=2&color=6)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=mdakashhossain1&color=brightgreen&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/mdakashhossain1?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/mdakashhossain1?style=social)
 
 </div>
 
