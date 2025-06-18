@@ -284,11 +284,31 @@ An enthusiastic individual deeply passionate about technology and coding, enjoys
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdakashhossain1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&icon_color=58a6ff)
+### 📊 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdakashhossain1&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdakashhossain1&theme=radical&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff)
+### 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdakashhossain1&theme=dark&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mdakashhossain1&theme=radical&hide_border=true&background=0d1117)
+### 🔥 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdakashhossain1&theme=dark)
+
+### 📈 Profile Summary
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdakashhossain1&theme=dark)
+
+### 🎯 Achievement Badges
+![Repositories](https://img.shields.io/badge/Total%20Repos-5-blue?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/mdakashhossain1?style=for-the-badge&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=mdakashhossain1&style=for-the-badge&color=brightgreen)
+![GitHub Stars](https://img.shields.io/github/stars/mdakashhossain1?style=for-the-badge&color=yellow)
+![Years Active](https://img.shields.io/badge/Years%20Active-2021--2024-orange?style=for-the-badge)
+
+### 💡 Quick Stats
+- 🔭 **Public Repositories:** 5
+- 👥 **Followers:** Growing Community
+- 🌟 **Focus:** Full Stack Development
+- 💻 **Primary Languages:** JavaScript, HTML, CSS, Kotlin
+- 🚀 **Current Projects:** AI-Powered Web Firewall, SMS Gateway
 
 </div>
 
