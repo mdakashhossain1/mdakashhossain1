@@ -133,13 +133,41 @@ An enthusiastic individual deeply passionate about technology and coding, enjoys
 
 ---
 
+## 🎖️ GitHub Achievements:
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=mdakashhossain1&theme=onedark&no-frame=true&column=7)
+
+</div>
+
+---
+
+## 📈 Contribution Metrics:
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=mdakashhossain1&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+
+</div>
+
+---
+
 ## 📊 Weekly Development Breakdown:
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-![](https://github-readme-stats.vercel.app/api/wakatime?username=mdakashhossain1&theme=dark&hide_border=true)
-<!--END_SECTION:waka-->
+![](https://github-readme-stats.vercel.app/api?username=mdakashhossain1&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&line_height=20&custom_title=Weekly%20Stats)
+
+</div>
+
+---
+
+## 🔥 Streak & Activity:
+
+<div align="center">
+
+![](https://streak-stats.demolab.com/?user=mdakashhossain1&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)
 
 </div>
 
@@ -256,7 +284,31 @@ An enthusiastic individual deeply passionate about technology and coding, enjoys
 
 <div align="center">
 
-![](https://metrics.lecoq.io/mdakashhossain1?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka)
+![GitHub Metrics](https://metrics.lecoq.io/mdakashhossain1?template=classic&config.timezone=Asia%2FDhaka)
+
+</div>
+
+---
+
+## 📊 Advanced GitHub Analytics:
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdakashhossain1&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdakashhossain1&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdakashhossain1&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdakashhossain1&theme=vue)
+
+</div>
+
+---
+
+## 🎯 GitHub Achievements:
+
+<div align="center">
+
+![Achievements](https://github-readme-stats.vercel.app/api?username=mdakashhossain1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdakashhossain1&theme=radical&layout=compact&langs_count=8)
 
 </div>
 
