@@ -13,11 +13,11 @@
 
 An enthusiastic individual deeply passionate about technology and coding, enjoys crafting lengthy scripts to creatively solve complex problems.
 
-- 🔭 All of my projects are available at **[GitHub Profile](https://github.com/mdakashhossain1/mdakashhossain1/README.md)**
+- 🔭 All of my projects are available at **[GitHub Profile](https://github.com/mdakashhossain1/mdakashhossain1/blob/main/README.md)**
 - 💬 Ask me about **MongoDB, Express, React, NodeJS, React Native, Flutter** and many more
 - ⚡ Fun fact **Code with passion, debug with patience, and create with purpose**
 - 📧 How to reach me: **hossainakash22958@gmail.com**
-- 📄 Know about my experiences: **[Portfolio](https://github.com/mdakashhossain1/mdakashhossain1/README.md)**
+- 📄 Know about my experiences: **[Portfolio](https://github.com/mdakashhossain1/mdakashhossain1/blob/main/README.md)**
 
 ---
 
