@@ -66,20 +66,7 @@ An enthusiastic developer deeply passionate about technology, security, and auto
 
 ---
 
-## 📊 GitHub Snapshot
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdakashhossain1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdakashhossain1&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=mdakashhossain1&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📈 Profile Insights
+## 📊 GitHub Overview
 
 <div align="center">
 
@@ -95,11 +82,14 @@ An enthusiastic developer deeply passionate about technology, security, and auto
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mdakashhossain1&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8)
+![Years on GitHub](https://img.shields.io/badge/On%20GitHub%20since-2021-5B74F7?style=for-the-badge)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/mdakashhossain1&label=Public%20Repos&query=public_repos&color=5B74F7&style=for-the-badge)
+![Stars Earned](https://img.shields.io/github/stars/mdakashhossain1?style=for-the-badge&color=5B74F7&label=Stars%20Earned)
+![Followers](https://img.shields.io/github/followers/mdakashhossain1?style=for-the-badge&color=5B74F7)
 
 </div>
 
@@ -108,8 +98,6 @@ An enthusiastic developer deeply passionate about technology, security, and auto
 ## 🔥 Contribution Activity
 
 <div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdakashhossain1&theme=tokyo-night&hide_border=true&area=true)
 
 ![Contribution Calendar](https://ghchart.rshah.org/5B74F7/mdakashhossain1)
 
@@ -146,14 +134,11 @@ An enthusiastic developer deeply passionate about technology, security, and auto
 
 ---
 
-## 🎯 Reach & Activity
+## 🎯 Profile Views
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mdakashhossain1&color=5B74F7&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/mdakashhossain1?style=for-the-badge&color=5B74F7)
-![GitHub Stars](https://img.shields.io/github/stars/mdakashhossain1?style=for-the-badge&color=5B74F7)
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/mdakashhossain1&label=Public%20Repos&query=public_repos&color=5B74F7&style=for-the-badge)
 
 </div>
 
