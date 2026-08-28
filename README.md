@@ -33,7 +33,6 @@ An enthusiastic developer deeply passionate about technology, security, and auto
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akashhossain)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akashhossain)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/mdakashhossain1)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/akashhossain)
 [![Email](https://img.shields.io/badge/Email-hossainakash22958%40gmail.com-5B74F7?style=flat-square&logo=gmail&logoColor=white)](mailto:hossainakash22958@gmail.com)
 
 </div>
@@ -151,9 +150,7 @@ An enthusiastic developer deeply passionate about technology, security, and auto
 
 <div align="center">
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/akashhossain)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/akashhossain)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/akashhossain)
 
 </div>
 
