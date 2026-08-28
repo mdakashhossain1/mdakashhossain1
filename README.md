@@ -28,10 +28,13 @@ An enthusiastic developer deeply passionate about technology, security, and auto
 
 <div align="center">
 
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-success?style=flat-square&color=5B74F7)
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akashhossain)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akashhossain)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/mdakashhossain1)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/akashhossain)
+[![Email](https://img.shields.io/badge/Email-hossainakash22958%40gmail.com-5B74F7?style=flat-square&logo=gmail&logoColor=white)](mailto:hossainakash22958@gmail.com)
 
 </div>
 
@@ -119,14 +122,14 @@ An enthusiastic developer deeply passionate about technology, security, and auto
 
 <div align="center">
 
-| Project | Description | Stack |
-|---|---|---|
-| **[SMS Gateway Free](https://github.com/mdakashhossain1/SMS-Gateway-Free)** ⭐ 3 | Turns an Android device into an SMS gateway, exposed via a custom-domain API | Kotlin |
-| **[AI-Powered Web Firewall](https://github.com/mdakashhossain1/AI-Powered-Web-Firewall)** ⭐ 2 | ML-driven WAF that detects and blocks malicious traffic in real time, adapting to emerging attack patterns | HTML / JS |
-| **[SubTranscribe Studio](https://github.com/mdakashhossain1/SubTranscribe-Studio)** | Free, local-first subtitle generator for video/blog content using Whisper (CUDA & Vulkan accelerated) | Python |
-| **[Android YT Player](https://github.com/mdakashhossain1/Android-YTPlayer)** ⭐ 1 | Lightweight Android app demonstrating embedded YouTube playback | Android / CSS |
-| **[Arknox Framework](https://github.com/mdakashhossain1/Arknox-Framwork)** | A custom PHP framework built for speed and flexibility | PHP |
-| **[Reward App UI](https://github.com/mdakashhossain1/reward-app-ui-design-free-open-soruce)** | Gamified Android rewards app UI — streaks, leaderboards, achievements | HTML / Tailwind |
+| Project | Description | Stack | License |
+|---|---|---|---|
+| **[SMS Gateway Free](https://github.com/mdakashhossain1/SMS-Gateway-Free)** ⭐ 3 | Turns an Android device into an SMS gateway, exposed via a custom-domain API | Kotlin | ![License](https://img.shields.io/github/license/mdakashhossain1/SMS-Gateway-Free?color=5B74F7) |
+| **[AI-Powered Web Firewall](https://github.com/mdakashhossain1/AI-Powered-Web-Firewall)** ⭐ 2 | ML-driven WAF that detects and blocks malicious traffic in real time, adapting to emerging attack patterns | HTML / JS | ![License](https://img.shields.io/github/license/mdakashhossain1/AI-Powered-Web-Firewall?color=5B74F7) |
+| **[SubTranscribe Studio](https://github.com/mdakashhossain1/SubTranscribe-Studio)** | Free, local-first subtitle generator for video/blog content using Whisper (CUDA & Vulkan accelerated) | Python | ![Build](https://github.com/mdakashhossain1/SubTranscribe-Studio/actions/workflows/build-desktop.yml/badge.svg) |
+| **[Android YT Player](https://github.com/mdakashhossain1/Android-YTPlayer)** ⭐ 1 | Lightweight Android app demonstrating embedded YouTube playback | Android / CSS | ![License](https://img.shields.io/github/license/mdakashhossain1/Android-YTPlayer?color=5B74F7) |
+| **[Arknox Framework](https://github.com/mdakashhossain1/Arknox-Framwork)** | A custom PHP framework built for speed and flexibility | PHP | ![CI](https://github.com/mdakashhossain1/Arknox-Framwork/actions/workflows/ci-cd.yml/badge.svg) |
+| **[Reward App UI](https://github.com/mdakashhossain1/reward-app-ui-design-free-open-soruce)** | Gamified Android rewards app UI — streaks, leaderboards, achievements | HTML / Tailwind | ![License](https://img.shields.io/github/license/mdakashhossain1/reward-app-ui-design-free-open-soruce?color=5B74F7) |
 
 *Full list of 20+ public repositories: **[github.com/mdakashhossain1](https://github.com/mdakashhossain1?tab=repositories)***
 
